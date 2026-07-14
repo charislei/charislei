@@ -1,9 +1,9 @@
-# Hi, I'm Charis Lei Rolluqui! 👋
+# Hi, I'm Charis Lei Rolluqui!
 
 I am a recent Computer Science graduate specializing in **Application Development** from Mapúa University. My focus lies at the intersection of deep learning research, intelligent automation, and robust full-stack software engineering.
 
-- 🎓 **Education:** B.S. Computer Science, Mapúa University (Graduated May 2026)
-- ✉️ **Contact:** rolluquicharis11@gmail.com | [LinkedIn](https://linkedin.com/in/charis-rolluqui-93667a357)
+- **Education:** B.S. Computer Science, Mapúa University (Graduated May 2026)
+- **Contact:** rolluquicharis11@gmail.com | [LinkedIn](https://linkedin.com/in/charis-rolluqui-93667a357)
 
 ---
 
